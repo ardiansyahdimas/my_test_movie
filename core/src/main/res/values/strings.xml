@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Test Movie</string>
+    <string name="title_movies">Movies</string>
+    <string name="no_internet_connected">No internet connected!</string>
+    <string name="terjadi_kesalahan_coba_lagi_nanti">Terjadi kesalahan coba lagi nanti!</string>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="empty_data">Data on local database is empty!</string>
+    <string name="old_data_has_been_deleted_and_new_data_is_available">old data has been deleted and new data is available.</string>
+    <string name="data_is_empty">Data is empty, please check your connection!</string>
+</resources>
